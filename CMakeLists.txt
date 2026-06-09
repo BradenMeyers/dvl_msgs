@@ -31,6 +31,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/CommandResponse.msg"
   "msg/ConfigCommand.msg"
   "msg/ConfigStatus.msg"
+  "msg/TimeStatus.msg"
   DEPENDENCIES builtin_interfaces std_msgs geometry_msgs
  )
 

@@ -5,3 +5,4 @@ string  error_message
 int32   result
 string  format
 string  type
+TimeStatus  time_status
