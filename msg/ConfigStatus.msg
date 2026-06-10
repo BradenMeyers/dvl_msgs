@@ -8,6 +8,7 @@ string  error_message
 int32   speed_of_sound
 bool    acoustic_enabled
 bool    dark_mode_enabled
+bool    periodic_cycling_enabled
 int32   mounting_rotation_offset
 string  range_mode
 
